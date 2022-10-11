@@ -1,4 +1,6 @@
-ass Square that defines a
+#!/usr/bin/python3
+
+"""a class Square that defines a
 square (based on 5-square.py) with private instance attributes
 and a properties which are accessed and changed
 by getters and setters respectively"""
