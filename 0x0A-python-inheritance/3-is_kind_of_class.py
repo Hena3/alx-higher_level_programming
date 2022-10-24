@@ -1,4 +1,6 @@
- for Same class or inherit from"""
+#!/usr/bin/python3
+
+"""Checks for Same class or inherit from"""
 
 
 def is_kind_of_class(obj, a_class):
